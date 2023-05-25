@@ -1,0 +1,6 @@
+- To: [User E-mail]
+- From Address: {{userEmailAddress}}
+- From Name: {{userName}}
+- Reply To Address: {{userEmailAddress}}
+- Reply To Name: {{userName}}
+- Subject: Janssen can help you help your patients
